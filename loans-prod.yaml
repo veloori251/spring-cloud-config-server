@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to EazyBank loans related Prod APIs"
+  contactDetails:
+    name: "Vamsi - product Owner"
+    email: "vamsi@eazybank.com"
+  onCallSupport:
+    - (888)888-1234
+    - (888)823-1345

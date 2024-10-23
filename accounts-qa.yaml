@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Shaik Bavajan - QA Lead"
+    email: "bavajan@eazybank.com"
+  onCallSupport:
+    - (666)666-1234
+    - (666)624-1345

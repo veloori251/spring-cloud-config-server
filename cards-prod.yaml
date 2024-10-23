@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related Prod APIs"
+  contactDetails:
+    name: "Vidya - Product Owner"
+    email: "vidya@eazybank.com"
+  onCallSupport:
+    - (111)111-1234
+    - (111)124-1345

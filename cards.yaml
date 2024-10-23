@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related Local APIs"
+  contactDetails:
+    name: "Bhargavi - Developer"
+    email: "bhargavi@eazybank.com"
+  onCallSupport:
+    - (222)222-1234
+    - (222)224-1345

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Vamsi Krishna - Product Owner"
+    email: "vamsi@eazybank.com"
+  onCallSupport:
+    - (777)777-1234
+    - (777)724-1345
